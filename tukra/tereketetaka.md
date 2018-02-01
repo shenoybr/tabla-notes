@@ -1,8 +1,7 @@
 # TinTaal Tukra
 
 ### NoTes
-1. In triplet
-2. Thaka = 
+* Triplet Form, 1 beat = 3 notes
 
 | |1|2|3|4|
 | :--- | :--- | :--- | :--- | :--- |
