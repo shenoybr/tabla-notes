@@ -1,7 +1,8 @@
 # TinTaal Tukra
 
-### NoTes
-* Triplet Form, 1 beat = 3 notes
+### Notes
+
+Following composition is in triplet Form, wherein 1 beat = 3 notes. 
 
 | |1|2|3|4|
 | :--- | :--- | :--- | :--- | :--- |
