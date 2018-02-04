@@ -1,97 +1,124 @@
-# Teka DhiNe Taka (Banaras Gharana)
+# TeKa DhiNe TaKa (Banaras Gharana)
 
 ### 1x speed
 
 | |1|2|3|4|
 | :--- | :--- | :--- | :--- | :--- |
-| + | Teka DhiNe | Taka Teka | DhiNe Taka | DhiNe Taka  
-| 2 | TeTe TeTe | GheGhe TeTe | GheRe NaGa | DhiNe Taka  
-| 0 | Teka TiNe | Taka Teka | TiNe Taka | TiNe Taka  
-| 3 | TeTe TeTe | KeKe TeTe | KeRe Naka | TiNe Taka  
+| + | TeKa DhiNe | TaKa TeKa | DhiNe TaKa | DhiNe TaKa  
+| 2 | TeTe TeTe | GheGhe TeTe | GheRe NaGa | DhiNe TaKa  
+| 0 | TeKa TiNe | TaKa TeKa | TiNe TaKa | TiNe TaKa  
+| 3 | TeTe TeTe | KeKe TeTe | KeRe NaKa | TiNe TaKa  
 
 ### 1.5x speed
 
 | |1|2|3|4|
 | :--- | :--- | :--- | :--- | :--- |
-| + | TekaDhi NeTaka | TekaDhi NeTaka | DhiNeTa kaTeTe | TeTeGhe GheTeTe  
-| 2 | GheReNa GaDhiNe | TakaTe kaTiNe | TakaTe kaTiNe | TakaTi NeTaka  
-| 0 | TeTeTe TeKeKe | TeTeKe ReNaKa | TiNeTa KaTeka | DhiNeTa kaTeka  
-| 3 | DhiNeTa kaDhiNe | TakaTe TeTeTe | GheGheTe TeGheRe | NaGaDhi NeTaka  
-| + | TekaTi NeTaka | TekaTi NeTaka | TiNeTa kaTeTe | TeTeKe KeTeTe  
-| 2 | KeReNa KaTiNe | TakaTe kaDhiNe | TakaTe kaDhiNe | TakaDhi NeTaka  
-| 0 | TeTeTe TeGheGhe | TeTeGhe ReNaGa | DhiNeTa GaTeka | TiNeTa kaTeka  
-| 3 | TiNeTa kaTiNe | TakaTe TeTeTe | KeKeTe TeKeRe | NaKaTi NeTaka  
+| + | TeKaDhi NeTaKa | TeKaDhi NeTaKa | DhiNeTa KaTeTe | TeTeGhe GheTeTe  
+| 2 | GheReNa GaDhiNe | TaKaTe KaTiNe | TaKaTe KaTiNe | TaKaTi NeTaKa  
+| 0 | TeTeTe TeKeKe | TeTeKe ReNaKa | TiNeTa KaTeKa | DhiNeTa KaTeKa  
+| 3 | DhiNeTa KaDhiNe | TaKaTe TeTeTe | GheGheTe TeGheRe | NaGaDhi NeTaKa  
+| + | TeKaTi NeTaKa | TeKaTi NeTaKa | TiNeTa KaTeTe | TeTeKe KeTeTe  
+| 2 | KeReNa KaTiNe | TaKaTe KaDhiNe | TaKaTe KaDhiNe | TaKaDhi NeTaKa  
+| 0 | TeTeTe TeGheGhe | TeTeGhe ReNaGa | DhiNeTa GaTeKa | TiNeTa KaTeKa  
+| 3 | TiNeTa KaTiNe | TaKaTe TeTeTe | KeKeTe TeKeRe | NaKaTi NeTaKa  
 
 ### 2x speed
 
 | |1|2|3|4|
 | :--- | :--- | :--- | :--- | :--- |
-| + | TekaDhiNe | TakaTeka | DhiNeTaka | DhiNeTaka  
-| 2 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaka  
-| 0 | TekaTiNe | TakaTeka | TiNeTaka | TiNeTaka  
-| 3 | TeTeTeTe | KeKeTeTe | KeReNaka | TiNeTaka  
+| + | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | DhiNeTaKa  
+| 2 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaKa  
+| 0 | TeKaTiNe | TaKaTeKa | TiNeTaKa | TiNeTaKa  
+| 3 | TeTeTeTe | KeKeTeTe | KeReNaKa | TiNeTaKa  
 
 ### Vistar
 
 | |1|2|3|4|
 | :--- | :--- | :--- | :--- | :--- |
-| + | TekaDhiNe | TakaTeka | DhiNeTaka | DhiNeTaka  
-| 2 | TekaDhiNe | TakaTeka | DhiNeTaka | DhiNeTaka  
-| 0 | TekaDhiNe | TakaTeka | DhiNeTaka | DhiNeTaka  
-| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaka  
+| + | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | DhiNeTaKa  
+| 2 | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | DhiNeTaKa  
+| 0 | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | DhiNeTaKa  
+| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaKa  
 
 -- mudi alike  
 
 | |1|2|3|4|
 | :--- | :--- | :--- | :--- | :--- |
-| + | TekaDhiNe | TakaTeka | DhiNeTaka | TeKaDhiNe  
-| 2 | TakaTeka | DhiNeTaKa | TekaTeka | DhiNeTaka  
-| 0 | TekaDhiNe | TakaTeka | DhiNeTaka | DhiNeTaka  
-| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaka  
+| + | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | TeKaDhiNe  
+| 2 | TaKaTeKa | DhiNeTaKa | TeKaTeKa | DhiNeTaKa  
+| 0 | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | DhiNeTaKa  
+| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaKa  
 
 -- mudi alike
 
 | |1|2|3|4|
 | :--- | :--- | :--- | :--- | :--- |
-| + | TeKaTeKa | TekaDhiNe | TakaTeka | DhiNeTaka  
-| 2 | TeKaTeKa | TekaDhiNe | TakaTeka | DhiNeTaka  
-| 0 | TekaDhiNe | TakaTeka | DhiNeTaka | DhiNeTaka  
-| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaka  
+| + | TeKaTeKa | DhiNeTaKa | TeKaTeKa | DhiNeTaKa  
+| 2 | TeKaTeKa | DhiNeTaKa | DhiNeTaKa | DhiNeTaKa  
+| 0 | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | DhiNeTaKa  
+| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaKa  
+
+-- mudi alike  
+
+| |1|2|3|4|
+| :--- | :--- | :--- | :--- | :--- |
+| + | TeKaTeKa | TeKaDhiNe | TaKaTeKa | DhiNeTaKa  
+| 2 | TeKaTeKa | TeKaDhiNe | TaKaTeKa | DhiNeTaKa  
+| 0 | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | DhiNeTaKa  
+| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaKa  
 
 -- mudi alike
 
 | |1|2|3|4|
 | :--- | :--- | :--- | :--- | :--- |
-| + | TekaDhiNe | TakaDhiNe | TakaTeka | DhiNeTaka  
-| 2 | TekaDhiNe | TakaDhiNe | TakaTeka | DhiNeTaka  
-| 0 | TekaDhiNe | TakaTeka | DhiNeTaka | DhiNeTaka  
-| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaka  
+| + | TeKaDhiNe | TaKaDhiNe | TaKaTeKa | DhiNeTaKa  
+| 2 | TeKaDhiNe | TaKaDhiNe | TaKaTeKa | DhiNeTaKa  
+| 0 | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | DhiNeTaKa  
+| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaKa  
 
 -- mudi alike  
 
 | |1|2|3|4|
 | :--- | :--- | :--- | :--- | :--- |
-| + | TekaDhiNe | TakaDhiNe | DhiNeTaka | DhiNeTaka  
-| 2 | TekaDhiNe | TakaDhiNe | DhiNeTaka | DhiNeTaka  
-| 0 | TekaDhiNe | TakaTeka | DhiNeTaka | DhiNeTaka  
-| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaka  
+| + | TeKaDhiNe | TaKaDhiNe | DhiNeTaKa | DhiNeTaKa  
+| 2 | TeKaDhiNe | TaKaDhiNe | DhiNeTaKa | DhiNeTaKa  
+| 0 | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | DhiNeTaKa  
+| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaKa  
 
 -- mudi alike  
 
 | |1|2|3|4|
 | :--- | :--- | :--- | :--- | :--- |
-| + | TekaDhiNe | TakaDhiNe | TakaTeka | DhiNeTaka  
-| 2 | DhiNeTaka | DhiNeDhiNe| DhiNeTaka | DhiNeTaka  
-| 0 | TekaDhiNe | TakaTeka | DhiNeTaka | DhiNeTaka  
-| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaka  
+| + | TeKaDhiNe | TaKaDhiNe | TaKaTeKa | DhiNeTaKa  
+| 2 | DhiNeTaKa | DhiNeDhiNe| DhiNeTaKa | DhiNeTaKa  
+| 0 | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | DhiNeTaKa  
+| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaKa  
 
 -- mudi alike  
 
 | |1|2|3|4|
 | :--- | :--- | :--- | :--- | :--- |
-| + | TekaDhiNe | TakaTeka | DhiNeTaka | TekaDhiNe  
-| 2 | DhiNeTaka | DhiNeDhiNe | TakaDhiNe | DhiNeTaka  
-| 0 | TekaDhiNe | TakaTeka | DhiNeTaka | DhiNeTaka  
-| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaka  
+| + | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | TeKaDhiNe  
+| 2 | DhiNeTaKa | DhiNeDhiNe | TaKaDhiNe | DhiNeTaKa  
+| 0 | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | DhiNeTaKa  
+| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaKa  
+
+-- mudi alike  
+
+| |1|2|3|4|
+| :--- | :--- | :--- | :--- | :--- |
+| + | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | DhiNeTaKa  
+| 2 | DhiNeDhiNe | DhiNeTaKa | DhiNeDhiNe | DhiNeTaKa  
+| 0 | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | DhiNeTaKa  
+| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaKa  
+
+-- mudi alike  
+
+| |1|2|3|4|
+| :--- | :--- | :--- | :--- | :--- |
+| + | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | TeKaDhiNe  
+| 2 | TaKaDhiNe | DhiNeTaKa | DhiNeDhiNe | DhiNeTaKa  
+| 0 | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | DhiNeTaKa  
+| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaKa  
 
 -- mudi alike  
