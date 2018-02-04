@@ -122,3 +122,12 @@
 | 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaKa  
 
 -- mudi alike  
+
+| |1|2|3|4|
+| :--- | :--- | :--- | :--- | :--- |
+| + | TeKaTeKa | TeKaTeKa  | TeKaTeka | DhiNeTaKa  
+| 2 | KaTeKaTe | KaTeKaTe  | KaTeKaTe | DhiNeTaKa   
+| 0 | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | DhiNeTaKa  
+| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaKa  
+
+-- mudi alike  
