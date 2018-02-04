@@ -131,3 +131,30 @@
 | 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaKa  
 
 -- mudi alike  
+
+| |1|2|3|4|
+| :--- | :--- | :--- | :--- | :--- |
+| + | KaTeTaKa | KaTeTaKa  | DhiNeTaKa | KaTeTaKa   
+| 2 | KaTeTaKa | KaTeTaKa  | DhiNeTaKa | KaTeTaKa   
+| 0 | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | DhiNeTaKa  
+| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaKa  
+
+-- mudi alike  
+
+| |1|2|3|4|
+| :--- | :--- | :--- | :--- | :--- |
+| + | KaTeTaKa | DhiNeTaKa | KaTeTaKa  | DhiNeTaKa     
+| 2 | KaTeTaKa | KaTeTaKa  | DhiNeTaKa | DhiNeTaKa   
+| 0 | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | DhiNeTaKa  
+| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaKa  
+
+-- mudi alike  
+
+| |1|2|3|4|
+| :--- | :--- | :--- | :--- | :--- |
+| + | KaTeTaKa | DhiNeTaKa | KaTeTaKa  | DhiNeTaKa     
+| 2 | KaTeTaKa | DhiNeTaKa  | DhiNeTaKa | DhiNeTaKa   
+| 0 | TeKaDhiNe | TaKaTeKa | DhiNeTaKa | DhiNeTaKa  
+| 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaKa  
+
+-- mudi alike  
