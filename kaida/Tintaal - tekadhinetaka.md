@@ -39,6 +39,7 @@
 | 2 | TekaDhiNe | TakaTeka | DhiNeTaka | DhiNeTaka  
 | 0 | TekaDhiNe | TakaTeka | DhiNeTaka | DhiNeTaka  
 | 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaka  
+
 -- mudi alike  
 
 | |1|2|3|4|
@@ -47,6 +48,7 @@
 | 2 | TakaTeka | DhiNeTaKa | TekaTeka | DhiNeTaka  
 | 0 | TekaDhiNe | TakaTeka | DhiNeTaka | DhiNeTaka  
 | 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaka  
+
 -- mudi alike
 
 | |1|2|3|4|
@@ -55,6 +57,7 @@
 | 2 | TeKaTeKa | TekaDhiNe | TakaTeka | DhiNeTaka  
 | 0 | TekaDhiNe | TakaTeka | DhiNeTaka | DhiNeTaka  
 | 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaka  
+
 -- mudi alike
 
 | |1|2|3|4|
@@ -63,6 +66,7 @@
 | 2 | TekaDhiNe | TakaDhiNe | TakaTeka | DhiNeTaka  
 | 0 | TekaDhiNe | TakaTeka | DhiNeTaka | DhiNeTaka  
 | 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaka  
+
 -- mudi alike  
 
 | |1|2|3|4|
@@ -71,6 +75,7 @@
 | 2 | TekaDhiNe | TakaDhiNe | DhiNeTaka | DhiNeTaka  
 | 0 | TekaDhiNe | TakaTeka | DhiNeTaka | DhiNeTaka  
 | 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaka  
+
 -- mudi alike  
 
 | |1|2|3|4|
@@ -79,6 +84,7 @@
 | 2 | DhiNeTaka | DhiNeDhiNe| DhiNeTaka | DhiNeTaka  
 | 0 | TekaDhiNe | TakaTeka | DhiNeTaka | DhiNeTaka  
 | 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaka  
+
 -- mudi alike  
 
 | |1|2|3|4|
@@ -87,4 +93,5 @@
 | 2 | DhiNeTaka | DhiNeDhiNe | TakaDhiNe | DhiNeTaka  
 | 0 | TekaDhiNe | TakaTeka | DhiNeTaka | DhiNeTaka  
 | 3 | TeTeTeTe | GheGheTeTe | GheReNaGa | DhiNeTaka  
+
 -- mudi alike  
